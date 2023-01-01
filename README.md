@@ -12,4 +12,4 @@ This application is built using HTML, CSS and Vanilla JavaScript. It was created
 
 ## Usage
 
-To use the people counter app, simply press the increment button to add one person. When you are done counting the people, press the save button to log the current number of people. If you need to reset the counter, you can press the reset button. 
+To use the people counter app, simply press the increment button to add one person. When you are done counting the people, press the save button to log the current number of people. Once you are done, click save and it will reset automatically.
